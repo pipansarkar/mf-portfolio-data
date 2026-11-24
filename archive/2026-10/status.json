@@ -2,11 +2,63 @@
   "month": "2026-10",
   "crawl": [
     {
-      "amc": "nippon",
+      "amc": "absl",
+      "status": "error",
+      "detail": "URLError: <urlopen error [Errno -2] Name or service not known>",
+      "files": []
+    },
+    {
+      "amc": "angelone",
       "status": "ok",
       "detail": "",
       "files": [
-        "raw/2026-10/nippon/NIMF-MONTHLY-PORTFOLIO-31-Oct-26.xls"
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Gold-ETF-FOF.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Gold-ETF.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-1D-Rate-Liquid-ETF-GROWTH.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-50-ETF.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-50-Index-Fund.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-Total-Market-ETF.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-Total-Market-Index-Fund.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-Total-Market-Momentum-Quality-50-ETF.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-Total-Market-Momentum-Quality-50-Index-Fund.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October-2026-Angel-One-Silver-ETF.xlsx",
+        "raw/2026-10/angelone/Monthly-Portfolio-October2026-Angel-One-Silver-ETF-FOF.xlsx"
+      ]
+    },
+    {
+      "amc": "baroda",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/baroda/Portfolio_Holdings_and_Exposure-October_2026_20839.xlsx"
+      ]
+    },
+    {
+      "amc": "capitalmind",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/capitalmind/CMARB_Monthly_Portfolio_Disclosure_October_2026_020a9486ac.xlsx",
+        "raw/2026-10/capitalmind/CMFLEXI_Monthly_Portfolio_Disclosure_October_2026_d02f06206d.xlsx",
+        "raw/2026-10/capitalmind/CMLIQ_Monthly_Portfolio_Disclosure_October_2026_b9cc0c9be0.xlsx",
+        "raw/2026-10/capitalmind/CMMAAF_Monthly_Portfolio_Disclosure_October_2026_745d34b69e.xlsx"
+      ]
+    },
+    {
+      "amc": "dsp",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/dsp/DSP_ISIN_DEBT_Portfolio_as_on_31_Oct_2026.xlsx",
+        "raw/2026-10/dsp/DSP_Equity_FOF_ISIN_Portfolio_as_on_31_Oct_2026.xlsx"
+      ]
+    },
+    {
+      "amc": "groww",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/groww/Monthly_Portfolio-_Oct_31_2026.xlsx"
       ]
     },
     {
@@ -14,6 +66,21 @@
       "status": "blocked",
       "detail": "HTTP 403",
       "files": []
+    },
+    {
+      "amc": "helios",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/helios/helios-arbitrage-fund-monthly-portfolio-as-on-31-october-2026.xlsx",
+        "raw/2026-10/helios/helios-balanced-advantage-fund-monthly-portfolio-as-on-31st-october-2026.xlsx",
+        "raw/2026-10/helios/helios-financial-services-fund-monthly-portfolio-as-on-31st-october-2026.xlsx",
+        "raw/2026-10/helios/helios-flexi-cap-fund-monthly-portfolio-as-on-31st-october-2026.xlsx",
+        "raw/2026-10/helios/helios-large-mid-cap-fund-monthly-portfolio-as-on-31st-october-2026.xlsx",
+        "raw/2026-10/helios/helios-mid-cap-fund-monthly-portfolio-as-on-31st-october-2026.xlsx",
+        "raw/2026-10/helios/helios-overnight-fund-monthly-portfolio-as-on-31st-october-2026.xlsx",
+        "raw/2026-10/helios/helios-small-cap-fund-monthly-portfolio-as-on-31st-october-2026.xlsx"
+      ]
     },
     {
       "amc": "mirae",
@@ -71,21 +138,279 @@
       ]
     },
     {
+      "amc": "motilal",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/motilal/Scheme_Portfolio_Details_October_2026.xlsx"
+      ]
+    },
+    {
+      "amc": "nippon",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/nippon/NIMF-MONTHLY-PORTFOLIO-31-Oct-26.xls"
+      ]
+    },
+    {
+      "amc": "nj",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NBAF-October-2026-20261109050704.XLS",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NJABF-October-2026-20261109050624.XLS",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NJELSTCH-October-2026-20261109050735.XLS",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NJFCP-October-2026-20261109050759.XLS",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NJMOF-October-2026-20261109050823.XLS",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NJOVERFD-October-2026-20261109050849.XLS",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NJOVERFD-September-2026-20261008113408.xlsx",
+        "raw/2026-10/nj/NJ-MF-Monthly-Portfolio-NVAF-October-2026-20261109050559.XLS"
+      ]
+    },
+    {
+      "amc": "oldbridge",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/oldbridge/OBMF_Arbitrage_Portfolio_Oct_26_d1c0c846d3.xlsx",
+        "raw/2026-10/oldbridge/OBMF_Flexi_Cap_Portfolio_Oct_26_394d44fbd0.xlsx",
+        "raw/2026-10/oldbridge/OBMF_Focused_Portfolio_Oct_26_5fbc27763f.xlsx"
+      ]
+    },
+    {
+      "amc": "ppfas",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/ppfas/PPAF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx",
+        "raw/2026-10/ppfas/PPCHF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx",
+        "raw/2026-10/ppfas/PPDAAF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx",
+        "raw/2026-10/ppfas/PPFAS_Monthly_Portfolio_Report_October_31_2026.xls",
+        "raw/2026-10/ppfas/PPFCF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx",
+        "raw/2026-10/ppfas/PPLCF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx",
+        "raw/2026-10/ppfas/PPLF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx",
+        "raw/2026-10/ppfas/PPTSF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx"
+      ]
+    },
+    {
+      "amc": "samco",
+      "status": "error",
+      "detail": "HTTPError: HTTP Error 500: Internal Server Error",
+      "files": []
+    },
+    {
       "amc": "sbi",
       "status": "ok",
       "detail": "",
       "files": [
         "raw/2026-10/sbi/all-schemes-monthly-portfolio---as-on-31st-october-2026.xlsx"
       ]
+    },
+    {
+      "amc": "shriram",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/shriram/Monthly-Portfolio-Shriram-Mutual-Fund-October-2026.xls"
+      ]
+    },
+    {
+      "amc": "tata",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx"
+      ]
+    },
+    {
+      "amc": "360one",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "axis",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "bajaj",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "bandhan",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "boi",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "canara",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "choice",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "edelweiss",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "franklin",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "hsbc",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "icici",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "invesco",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "iti",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "jiobr",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "jm",
+      "status": "error",
+      "detail": "Error: It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.",
+      "files": []
+    },
+    {
+      "amc": "kotak",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "lic",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "mahindra",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "navi",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "pgim",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "quant",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "quantum",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "sundaram",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "taurus",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "trust",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "unifi",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "union",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "uti",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "whiteoak",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
+    },
+    {
+      "amc": "zerodha",
+      "status": "no_files",
+      "detail": "no disclosure page known yet",
+      "files": []
     }
   ],
   "ter": [
     {
-      "amc": "nippon",
+      "amc": "angelone",
       "status": "ok",
       "detail": "",
       "files": [
-        "raw/2026-10-ter/nippon/TotalExpenseRatio2026-2027.xlsx"
+        "raw/2026-10-ter/angelone/Daily-TER-2026-27-216.xlsx"
       ]
     },
     {
@@ -97,19 +422,146 @@
       ]
     },
     {
+      "amc": "nippon",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/nippon/TotalExpenseRatio2026-2027.xlsx"
+      ]
+    },
+    {
       "amc": "sbi",
       "status": "ok",
       "detail": "",
       "files": [
         "raw/2026-10-ter/sbi/current-year-ter.xlsx"
       ]
+    },
+    {
+      "amc": "shriram",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/shriram/Shriram-Disclosure-of-Commission-Expenses-Act-FYR-2025-26.xlsx"
+      ]
+    },
+    {
+      "amc": "boi",
+      "status": "ok",
+      "detail": "from HTML tables",
+      "files": [
+        "raw/2026-10-ter/boi/ter_tables.json"
+      ]
+    },
+    {
+      "amc": "franklin",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/franklin/annual-recurring-expense-ratio-mar09-iqrxgqso-en-in.xls"
+      ]
+    },
+    {
+      "amc": "lic",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/lic/Total_Expense_Ratio.xlsx"
+      ]
+    },
+    {
+      "amc": "quantum",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/quantum/TER.xlsx"
+      ]
+    },
+    {
+      "amc": "zerodha",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/zerodha/TER_Disclosure_01-Apr-2026.xlsx"
+      ]
     }
   ],
   "warnings": [
+    "angelone/Monthly-Portfolio-October-2026-Angel-One-Gold-ETF.xlsx: no portfolio tables found",
+    "angelone/Monthly-Portfolio-October-2026-Angel-One-Nifty-1D-Rate-Liquid-ETF-GROWTH.xlsx: no portfolio tables found",
+    "angelone/Monthly-Portfolio-October-2026-Angel-One-Silver-ETF.xlsx: no portfolio tables found",
+    "baroda/Portfolio_Holdings_and_Exposure-October_2026_20839.xlsx: no portfolio tables found",
+    "helios/helios-overnight-fund-monthly-portfolio-as-on-31st-october-2026.xlsx: no portfolio tables found",
     "mirae/mafgf_oct2026.xlsx: no portfolio tables found",
+    "nj/NJ-MF-Monthly-Portfolio-NJOVERFD-October-2026-20261109050849.XLS: no portfolio tables found",
+    "nj/NJ-MF-Monthly-Portfolio-NJOVERFD-September-2026-20261008113408.xlsx: no portfolio tables found",
+    "TER angelone/Daily-TER-2026-27-216.xlsx: no TER table found",
+    "TER boi/ter_tables.json: no TER table found",
+    "TER annual-recurring-expense-ratio-mar09-iqrxgqso-en-in.xls: could not read (Unsupported format, or corrupt file: Expected BOF record; found b'<!doctyp')",
+    "TER quantum/TER.xlsx: no TER table found",
+    "TER shriram/Shriram-Disclosure-of-Commission-Expenses-Act-FYR-2025-26.xlsx: no TER table found",
     "nippon-india-crisil-ibx-financial-services-3-6-months-debt-index-fund: ISIN holdings add up to 108.4% of NAV; check the sheet",
+    "Duplicate portfolio for ppfas-parag-parikh-conservative-hybrid-fund in ppfas/PPFAS_Monthly_Portfolio_Report_October_31_2026.xls / PPCHF; keeping the first",
+    "Duplicate portfolio for ppfas-parag-parikh-arbitrage-fund in ppfas/PPFAS_Monthly_Portfolio_Report_October_31_2026.xls / PPAF; keeping the first",
+    "Duplicate portfolio for ppfas-parag-parikh-dynamic-asset-allocation-fund in ppfas/PPFAS_Monthly_Portfolio_Report_October_31_2026.xls / PPDAAF; keeping the first",
+    "Duplicate portfolio for ppfas-parag-parikh-flexi-cap-fund in ppfas/PPFCF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx / PPFCF; keeping the first",
+    "Duplicate portfolio for ppfas-parag-parikh-large-cap-fund in ppfas/PPLCF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx / PPLCF; keeping the first",
+    "Duplicate portfolio for ppfas-parag-parikh-liquid-fund in ppfas/PPLF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx / PPLF; keeping the first",
+    "Duplicate portfolio for ppfas-parag-parikh-elss-tax-saver-fund in ppfas/PPTSF_PPFAS_Monthly_Portfolio_Report_October_31_2026.xlsx / PPTSF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TGLDFOF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TEQPEF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TSCAPF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TRSFP; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TRSFM; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TREF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNMIIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNMIMIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNA30IF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNRIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNPBETF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNMSHIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNMMIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNMIF150; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNITIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNIDETF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNFSIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNCMIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNAIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TIFNA; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TNETF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TMULTICF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TMAOF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TINR; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TTOFE; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TEOF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TISF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TIPHF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TIIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TICF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / THOF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TFEF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TMCAPF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TCS; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TTSF96; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TDIVYF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TDIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TYCF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TBCF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TIFSA; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TBSBGIF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TBFSF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TAF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TEGF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TSTBF; keeping the first",
+    "Duplicate portfolio for tata-scheme-risk-o-meter in tata/Monthly_Portfolio_as_on_31st_October_2026....xlsx / TRSFC; keeping the first",
+    "TER matched for 0/8 angelone schemes",
+    "TER matched for 0/0 boi schemes",
+    "TER matched for 0/0 lic schemes",
     "TER matched for 46/47 mirae schemes",
     "TER matched for 94/104 nippon schemes",
-    "TER matched for 105/116 sbi schemes"
+    "TER matched for 0/0 quantum schemes",
+    "TER matched for 105/116 sbi schemes",
+    "TER matched for 0/10 shriram schemes",
+    "TER matched for 0/0 zerodha schemes"
   ]
 }
