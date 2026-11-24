@@ -1,0 +1,115 @@
+{
+  "month": "2026-10",
+  "crawl": [
+    {
+      "amc": "nippon",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/nippon/NIMF-MONTHLY-PORTFOLIO-31-Oct-26.xls"
+      ]
+    },
+    {
+      "amc": "hdfc",
+      "status": "blocked",
+      "detail": "HTTP 403",
+      "files": []
+    },
+    {
+      "amc": "mirae",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/mirae/200ewfof_oct2026.xlsx",
+        "raw/2026-10/mirae/alpha_oct2026.xlsx",
+        "raw/2026-10/mirae/alphafof_oct2026.xlsx",
+        "raw/2026-10/mirae/b2cetf_oct2026.xlsx",
+        "raw/2026-10/mirae/bseitif_oct2026.xlsx",
+        "raw/2026-10/mirae/defenfof_oct2026.xlsx",
+        "raw/2026-10/mirae/energy_oct2026.xlsx",
+        "raw/2026-10/mirae/evetf_oct2026.xlsx",
+        "raw/2026-10/mirae/health_oct2026.xlsx",
+        "raw/2026-10/mirae/hybetf_oct2026.xlsx",
+        "raw/2026-10/mirae/hybif_oct2026.xlsx",
+        "raw/2026-10/mirae/infra_oct2026.xlsx",
+        "raw/2026-10/mirae/internet_oct2026.xlsx",
+        "raw/2026-10/mirae/itetf_oct2026.xlsx",
+        "raw/2026-10/mirae/mabaf_oct2026.xlsx",
+        "raw/2026-10/mirae/mabff_oct2026.xlsx",
+        "raw/2026-10/mirae/mabpf_oct2026.xlsx",
+        "raw/2026-10/mirae/macmf_oct2026.xlsx",
+        "raw/2026-10/mirae/maebf_oct2026.xlsx",
+        "raw/2026-10/mirae/maetf_oct2026.xlsx",
+        "raw/2026-10/mirae/mafcf_oct2026.xlsx",
+        "raw/2026-10/mirae/maff_oct2026.xlsx",
+        "raw/2026-10/mirae/mafgf_oct2026.xlsx",
+        "raw/2026-10/mirae/mafpf_oct2026.xlsx",
+        "raw/2026-10/mirae/magef_oct2026.xlsx",
+        "raw/2026-10/mirae/mahcf_oct2026.xlsx",
+        "raw/2026-10/mirae/mahsf_oct2026.xlsx",
+        "raw/2026-10/mirae/mahtf_oct2026.xlsx",
+        "raw/2026-10/mirae/maipf_oct2026.xlsx",
+        "raw/2026-10/mirae/maldf_oct2026.xlsx",
+        "raw/2026-10/mirae/mamaaf_oct2026.xlsx",
+        "raw/2026-10/mirae/mang813f_oct2026.xlsx",
+        "raw/2026-10/mirae/manmf_oct2026.xlsx",
+        "raw/2026-10/mirae/maonf_oct2026.xlsx",
+        "raw/2026-10/mirae/mascf_oct2026.xlsx",
+        "raw/2026-10/mirae/maslf_oct2026.xlsx",
+        "raw/2026-10/mirae/matsf_oct2026.xlsx",
+        "raw/2026-10/mirae/mdbf_oct2026.xlsx",
+        "raw/2026-10/mirae/metaletf_oct2026.xlsx",
+        "raw/2026-10/mirae/midsmall_oct2026.xlsx",
+        "raw/2026-10/mirae/miiof_oct2026.xlsx",
+        "raw/2026-10/mirae/milpf_oct2026.xlsx",
+        "raw/2026-10/mirae/mtetf_oct2026.xlsx",
+        "raw/2026-10/mirae/psubetf_oct2026.xlsx",
+        "raw/2026-10/mirae/sensex_oct2026.xlsx",
+        "raw/2026-10/mirae/smartfof_oct2026.xlsx",
+        "raw/2026-10/mirae/smqetf_oct2026.xlsx",
+        "raw/2026-10/mirae/tm750_oct2026.xlsx"
+      ]
+    },
+    {
+      "amc": "sbi",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10/sbi/all-schemes-monthly-portfolio---as-on-31st-october-2026.xlsx"
+      ]
+    }
+  ],
+  "ter": [
+    {
+      "amc": "nippon",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/nippon/TotalExpenseRatio2026-2027.xlsx"
+      ]
+    },
+    {
+      "amc": "mirae",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/mirae/IN_MF_EXPENSE_RATIO_SEBI_V3_23112026.xls"
+      ]
+    },
+    {
+      "amc": "sbi",
+      "status": "ok",
+      "detail": "",
+      "files": [
+        "raw/2026-10-ter/sbi/current-year-ter.xlsx"
+      ]
+    }
+  ],
+  "warnings": [
+    "mirae/mafgf_oct2026.xlsx: no portfolio tables found",
+    "nippon-india-crisil-ibx-financial-services-3-6-months-debt-index-fund: ISIN holdings add up to 108.4% of NAV; check the sheet",
+    "TER matched for 46/47 mirae schemes",
+    "TER matched for 94/104 nippon schemes",
+    "TER matched for 105/116 sbi schemes"
+  ]
+}

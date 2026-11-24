@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "as_of": "2026-10-31",
+  "generated_at": "2026-11-24T15:11:57+00:00",
+  "file": "funds.json",
+  "sha256": "f9406fe58e2a9e5fc8f85fd7934eb3d10247a0d8a69e71fd7b19a30f74c966c4",
+  "bytes": 404535,
+  "fund_count": 267,
+  "month": "2026-10",
+  "coverage": {
+    "month": "2026-10",
+    "amcs_total": 4,
+    "amcs_current": [
+      "mirae",
+      "nippon",
+      "sbi"
+    ],
+    "missing": [
+      "hdfc"
+    ],
+    "blocked": [
+      "hdfc"
+    ]
+  }
+}
