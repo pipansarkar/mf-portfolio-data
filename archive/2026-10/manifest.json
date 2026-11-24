@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "as_of": "2026-10-31",
-  "generated_at": "2026-11-24T15:11:57+00:00",
+  "generated_at": "2026-11-24T15:57:42+00:00",
   "file": "funds.json",
-  "sha256": "f9406fe58e2a9e5fc8f85fd7934eb3d10247a0d8a69e71fd7b19a30f74c966c4",
-  "bytes": 404535,
+  "sha256": "87da51d167076295556d4ca5638683d5b00c63afe8d27fdcde6c7347f46f21eb",
+  "bytes": 404572,
   "fund_count": 267,
   "month": "2026-10",
   "coverage": {
@@ -20,6 +20,9 @@
     ],
     "blocked": [
       "hdfc"
+    ],
+    "missing_names": [
+      "HDFC Mutual Fund"
     ]
   }
 }
