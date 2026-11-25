@@ -1,20 +1,22 @@
 {
   "schema": 1,
   "as_of": "2026-10-31",
-  "generated_at": "2026-11-25T02:24:08+00:00",
+  "generated_at": "2026-11-25T02:49:41+00:00",
   "file": "funds.json",
-  "sha256": "e959fb7662a4b872d4877f2a2237ba81635e06d5d962a41906ad22196d842528",
-  "bytes": 1226348,
-  "fund_count": 834,
+  "sha256": "296f1e43c4552628646cd2899440cf1e280d22a5a7ffc5aa818dd18d07e64143",
+  "bytes": 1491690,
+  "fund_count": 1027,
   "month": "2026-10",
   "coverage": {
     "month": "2026-10",
     "amcs_total": 48,
     "amcs_current": [
+      "axis",
       "baroda",
       "capitalmind",
       "dsp",
       "groww",
+      "hdfc",
       "helios",
       "icici",
       "jm",
@@ -33,7 +35,6 @@
       "360one",
       "absl",
       "angelone",
-      "axis",
       "bajaj",
       "bandhan",
       "boi",
@@ -41,7 +42,6 @@
       "choice",
       "edelweiss",
       "franklin",
-      "hdfc",
       "hsbc",
       "invesco",
       "iti",
@@ -63,14 +63,12 @@
       "zerodha"
     ],
     "blocked": [
-      "angelone",
-      "hdfc"
+      "angelone"
     ],
     "missing_names": [
       "360 ONE Mutual Fund",
       "Aditya Birla Sun Life Mutual Fund",
       "Angel One Mutual Fund",
-      "Axis Mutual Fund",
       "Bajaj Finserv Mutual Fund",
       "Bandhan Mutual Fund",
       "Bank of India Mutual Fund",
@@ -78,7 +76,6 @@
       "Choice Mutual Fund",
       "Edelweiss Mutual Fund",
       "Franklin Templeton Mutual Fund",
-      "HDFC Mutual Fund",
       "HSBC Mutual Fund",
       "ITI Mutual Fund",
       "Invesco Mutual Fund",
