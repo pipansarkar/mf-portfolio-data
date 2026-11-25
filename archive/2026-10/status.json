@@ -15,11 +15,9 @@
     },
     {
       "amc": "axis",
-      "status": "ok",
-      "detail": "",
-      "files": [
-        "raw/2026-10/axis/Final_Monthly_Portfolio_31_10_2026_53a599066b.xlsx"
-      ]
+      "status": "no_files",
+      "detail": "no matching download on the page",
+      "files": []
     },
     {
       "amc": "baroda",
@@ -828,7 +826,7 @@
     "TER matched for 0/0 boi schemes",
     "TER matched for 0/0 lic schemes",
     "TER matched for 46/47 mirae schemes",
-    "TER matched for 94/104 nippon schemes",
+    "TER matched for 95/104 nippon schemes",
     "TER matched for 0/0 quantum schemes",
     "TER matched for 105/116 sbi schemes",
     "TER matched for 0/10 shriram schemes",
